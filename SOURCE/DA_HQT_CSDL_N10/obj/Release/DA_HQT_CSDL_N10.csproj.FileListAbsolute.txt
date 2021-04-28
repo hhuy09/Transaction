@@ -1,0 +1,9 @@
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\bin\Release\DA_HQT_CSDL_N10.exe.config
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\bin\Release\DA_HQT_CSDL_N10.exe
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\bin\Release\DA_HQT_CSDL_N10.pdb
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\obj\Release\DA_HQT_CSDL_N10.Form1.resources
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\obj\Release\DA_HQT_CSDL_N10.Properties.Resources.resources
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\obj\Release\DA_HQT_CSDL_N10.csproj.GenerateResource.cache
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\obj\Release\DA_HQT_CSDL_N10.csproj.CoreCompileInputs.cache
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\obj\Release\DA_HQT_CSDL_N10.exe
+C:\Users\hongh\source\repos\DA_HQT_CSDL_N10\DA_HQT_CSDL_N10\obj\Release\DA_HQT_CSDL_N10.pdb
